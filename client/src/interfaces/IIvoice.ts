@@ -1,0 +1,35 @@
+export interface IInvoice {
+    BODYAREACOUNT: string
+    BODYAREAS: string
+    CASEID: string
+    CLINICPROFILEKEY: string
+    COMPANYTOINVOICE: string
+    CORPORATEGROUP: string
+    COUNTRY: string
+    CREDITPRICE: string
+    CURRENCY: string
+    EXTRAFEE: string
+    FIRSTCLOSUREDATE: string
+    FREEOFCHARGE: string
+    HOSPITAL: string
+    IMAGESRECEIVED: string
+    INVOICESTATE: string
+    INVOICINGNOTES: string
+    ISSUE_ID: string
+    LASTPRICE: string
+    MANAGINGCOMPANY: string
+    OWNER: string
+    PATIENT: string
+    PRICE: string
+    PRICEAFTERDISCOUNT: string
+    PRICEBEFOREDISCOUNT: string
+    PRICELIST: string
+    REPORTINGSPECIALIST: string
+    SECONDARYTIERCLINIC: string
+    SPECIALTY: string
+    SPECIES: string
+    TURNAROUNDFORINVOICING: string
+    TYPEOFCASE: string
+    UNITSOFWORK: string
+    USECREDITSFORTHISCASE: string
+}
